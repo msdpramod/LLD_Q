@@ -1,4 +1,4 @@
-# LLD_Q
+
 
 # Low-Level Design (LLD) Interview Questions & Preparation Guide
 
